@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+python-telegram-bot
+requests
+aiohttp
+Pillow
